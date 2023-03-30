@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liqian Chen | Home</title>
+    <link>/authors/liqian-chen/</link>
+      <atom:link href="/authors/liqian-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liqian Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Liqian Chen</title>
+      <link>/authors/liqian-chen/</link>
+    </image>
+    
+    <item>
+      <title>NuMFUZZ: A Floating-Point Format Aware Fuzzer for Numerical Programs</title>
+      <link>/publication/conference-paper/22apsec/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/22apsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Bound Analysis of Dynamically Allocated Resources for C Programs</title>
+      <link>/publication/conference-paper/21issre/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/21issre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Rigorous Linear Programming Practical for Program Analysis</title>
+      <link>/publication/conference-paper/21cp/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/21cp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

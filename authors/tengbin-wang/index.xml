@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tengbin Wang | Home</title>
+    <link>/authors/tengbin-wang/</link>
+      <atom:link href="/authors/tengbin-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tengbin Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tengbin Wang</title>
+      <link>/authors/tengbin-wang/</link>
+    </image>
+    
+    <item>
+      <title>Static Bound Analysis of Dynamically Allocated Resources for C Programs</title>
+      <link>/publication/conference-paper/21issre/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/21issre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Rigorous Linear Programming Practical for Program Analysis</title>
+      <link>/publication/conference-paper/21cp/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/21cp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

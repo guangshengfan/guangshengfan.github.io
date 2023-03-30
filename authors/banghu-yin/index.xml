@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Banghu Yin | Home</title>
+    <link>/authors/banghu-yin/</link>
+      <atom:link href="/authors/banghu-yin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Banghu Yin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Banghu Yin</title>
+      <link>/authors/banghu-yin/</link>
+    </image>
+    
+    <item>
+      <title>Static Bound Analysis of Dynamically Allocated Resources for C Programs</title>
+      <link>/publication/conference-paper/21issre/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/21issre/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
